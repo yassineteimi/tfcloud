@@ -1,2 +1,2 @@
-instance_type = "t3.micro"
+instance_type = "t2.medium"
 feature_flag = true
